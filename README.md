@@ -5,5 +5,5 @@ Ideas for the game
   - Using Javascript will also be a nice idea, or a bit of both might work much better
 3. Use java for main code
 4. Implement a machine learning so engine can progressively grow in Python
-  - Decision tree
+  - Start from classification rules, linear regression then Decision tree, incease the accuracy. 
 5. Use SQL for database
